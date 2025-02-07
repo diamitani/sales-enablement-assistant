@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f5;
+    padding: 20px;
+}
+
+textarea, button, input {
+    margin-top: 10px;
+}
+
+pre {
+    background-color: #eaeaea;
+    padding: 10px;
+    border-radius: 5px;
+}
