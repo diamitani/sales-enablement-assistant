@@ -1,0 +1,16 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore Lambda deployment packages
+*.zip
+
+# Ignore IDE config files (optional)
+.vscode/
+.idea/
+
+# Ignore node_modules (if present)
+node_modules/
